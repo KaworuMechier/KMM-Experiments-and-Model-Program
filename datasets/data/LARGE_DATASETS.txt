@@ -1,0 +1,2 @@
+Large datasets (ECL, METR-LA, PEMS-BAY, ERA5-EC) exceed GitHub LFS limits.
+Download from original sources listed in README.md.
